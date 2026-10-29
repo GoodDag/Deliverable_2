@@ -1,0 +1,37 @@
+* 6ebe5bd - Mathilde Mæland Andersen, 29 seconds ago : wrote discussions
+* 4fe1bca - Nora Hattrem, 19 minutes ago : Small fixes
+* c167058 - Nora Hattrem, 30 minutes ago : Created output files and moved functions to data.py file
+* ef4394b - Nora Hattrem, 2 days ago : small fixes
+* ad5fc96 - Nora Hattrem, 2 days ago : Added currency correction
+*   3910b0e - Mathilde Mæland Andersen, 2 days ago : Merge branch 'main' of https://github.com/GoodDag/Deliverable_2
+|\  
+| * f34e628 - Mathilde Mæland Andersen, 2 days ago : fixed currency task 5
+* | 0b6a701 - Mathilde Mæland Andersen, 2 days ago : fixed currency task 5
+|/  
+* 121c2bf - Nora Hattrem, 2 days ago : Small fixes
+* 8c62191 - Nora Hattrem, 2 days ago : Added general setup for task 5
+*   958de0e - Nora Hattrem, 2 days ago : Merge branch 'Task_4'
+|\  
+| * 3478fb5 - Nora Hattrem, 2 days ago : Small Changes
+| * 7adc37e - Nora Hattrem, 2 days ago : Created refund ratio per item function
+| * 006928c - Nora Hattrem, 2 days ago : Created pivot table function
+| * 85589ed - Nora Hattrem, 2 days ago : created hourly revenue function
+| * 2fa9d18 - Nora Hattrem, 2 days ago : created function for converting data to dataframe
+* | 32e679b - Mathilde Mæland Andersen, 2 days ago : made refund ratio
+* | 19e96c1 - Mathilde Mæland Andersen, 2 days ago : Added back other files
+* | 545e91e - Mathilde Mæland Andersen, 2 days ago : Merge branch 'main' of https://github.com/GoodDag/Deliverable_2
+|\| 
+| * 88183e0 - Nora Hattrem, 2 days ago : A few minor fixes
+| * 9172473 - Nora Hattrem, 2 days ago : Changed file system
+* | 6322f18 - Mathilde Mæland Andersen, 2 days ago : task 3
+|/  
+*   033e853 - Mathilde Mæland Andersen, 2 days ago : Merge branch 'Task-1'
+|\  
+| * 4a17668 - Mathilde Mæland Andersen, 2 days ago : task 1
+* | 378cc43 - Nora Hattrem, 4 days ago : fixed type hints and added doc-strings
+* | a6d6327 - Nora Hattrem, 4 days ago : Added function for traversing json file
+* | 37890ac - Nora Hattrem, 4 days ago : Fixed recursive function
+* | 5446462 - Nora Hattrem, 4 days ago : Created general recursive function
+|/  
+* a960e24 - Nora Hattrem, 9 days ago : Created jupyter file
+* ea1aa8b - GoodDag, 10 days ago : Initial commit
